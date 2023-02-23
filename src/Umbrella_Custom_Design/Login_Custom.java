@@ -53,7 +53,7 @@ public class Login_Custom extends javax.swing.JFrame {
         jPanel2.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(11, 13, 190, 160));
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Umbrella_Imagens/07.png"))); // NOI18N
-        jPanel2.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 90, 40));
+        jPanel2.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 80, 40));
 
         textField_usuario.setBackground(new java.awt.Color(8, 13, 32));
         textField_usuario.setBorder(null);
